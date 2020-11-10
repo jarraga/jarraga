@@ -1,30 +1,10 @@
-<div
-    style="display: flex; justify-content: center; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color:#f7fafc; color: #4a5568; margin: 0;">
-    <div style="padding: 1rem;">
-        <div style="display: flex; align-items: center;">
-            <div style="margin-bottom: .5rem; font-size: 1.5em;">Hello! 🙋🏽‍♂️ I'm Jorge</div>
-            <img style="height: 2rem; width: 2rem; margin-left: 1.5rem;" src="assets/js.svg">
-            <img style="height: 2rem; width: 2rem; margin-left: 1rem;" src="assets/vue.svg">
-            <img style="height: 2rem; width: 2rem; margin-left: 1rem;" src="assets/node.svg">
-        </div>
-        <div style="font-weight: bold; margin-bottom: 1rem;">I'm a lover of programming and technology. I'm interested
-            in knowing how the software works and I'm
-            very pleased
-            to be able to replicate functions and put them into practice</div>
-        <div style="display: flex; justify-content: flex-end; align-items: center; width: 100%;">
-            <div style="margin-right: 1rem; display: flex; align-items: center;">
-                <div style="margin-right: .5rem;">Get in touch!</div>
-                <img src="assets/right-arrow.svg" style="height: 1rem; width: 1rem;">
-            </div>
-            <a href="https://wa.me/5493482633220"
-                style="width: fit-content; display: flex; padding: .5rem .75rem; align-items: center; justify-items: center; border-radius: 1rem; background-color: #C6F6D5; color: #2F855A; cursor: pointer; text-decoration: none;">
-                <img style="height: 1.25 rem; width: 1.25rem;" src="assets/ws.svg">
-                <div style="margin-left: .5rem;">whatsapp</div>
-            </a>
-        </div>
-    </div>
-    <!--  -->
-    <div style="padding: 1rem; max-width:300px; height: 100%;">
-        <img src="assets/land.jpg" style="border-radius: .5rem; width: 100%; height: 125px; object-fit: cover;">
-    </div>
-</div>
+# Hello! 🙋🏽‍♂️ I'm Jorge
+
+**I'm full stack web developer**
+
+>I tell you more about me on my personal site
+[jarraga.com](https://jarraga.com)
+
+If you would like to contact me, just hit the link!
+
+[Send me a whatsapp](https://wa.me/5493482633220)
