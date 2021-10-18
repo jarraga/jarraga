@@ -1,6 +1,6 @@
 # Hello! 🙋🏽‍♂️ I'm Jorge
 
-**I'm full stack web developer**
+**I'm a full stack web developer**
 
 >I tell you more about me on my personal site
 [jarraga.com](https://jarraga.com)
